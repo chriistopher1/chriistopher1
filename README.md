@@ -41,7 +41,7 @@ I build web and mobile apps for real business workflows, from database design an
 - **Batik manufacturing financial system** (Laravel + React + MySQL): built with an accounting team, with role-based access and automatic data checks. Cut manual financial reporting time .
 - **ReadOn** (Flutter): mobile app for reading books, articles, and journals, with quiz, challenge, and leaderboard features. 
 - **Inbox parser** : Parses email content and attachment to a structured data in excel format.
-- **Koileads** : Scrape business information and details based on keyword to help user to search for new leads based on their target market.
+- **Koileads** : Scrape business information and details based on keyword from google maps to help user to search for new leads based on their target market.
 - **Smart locker app**: tablet-based offline locker reservation that cut manual locker check-in time.
 - **Technician app** (Flutter): daily job tracking for field technicians.
 
