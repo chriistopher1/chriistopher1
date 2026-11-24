@@ -38,8 +38,8 @@ I build web and mobile apps for real business workflows, from database design an
 ## Things I've Built
 
 - **B2B ordering platform** (Next.js + Supabase): online ordering and transaction history for customers, with custom pricing tools and dashboards. Cut manual order processing time.
-- **Batik manufacturing financial system** (Laravel + React + MySQL): built with an accounting team, with role-based access and automatic data checks. Cut manual financial reporting time by 40%.
-- **ReadOn** (Flutter): mobile app for reading books, articles, and journals, with quiz, challenge, and leaderboard features. Used by 100+ readers in its first months.
+- **Batik manufacturing financial system** (Laravel + React + MySQL): built with an accounting team, with role-based access and automatic data checks. Cut manual financial reporting time .
+- **ReadOn** (Flutter): mobile app for reading books, articles, and journals, with quiz, challenge, and leaderboard features. 
 - **Inbox parser** : Parses email content and attachment to a structured data in excel format.
 - **Koileads** : Scrape business information and details based on keyword to help user to search for new leads based on their target market.
 - **Smart locker app**: tablet-based offline locker reservation that cut manual locker check-in time.
