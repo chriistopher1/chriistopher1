@@ -35,7 +35,7 @@ I build web and mobile apps for real business workflows, from database design an
 
 ---
 
-## 🚀 Things I've Built
+## Things I've Built
 
 - **B2B ordering platform** (Next.js + Supabase): online ordering and transaction history for customers, with custom pricing tools and dashboards. Cut manual order processing time by 40%.
 - **Batik manufacturing financial system** (Laravel + React + MySQL): built with an accounting team, with role-based access and automatic data checks. Cut manual financial reporting time by 40%.
