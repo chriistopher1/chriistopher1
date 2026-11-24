@@ -59,7 +59,7 @@ I build web and mobile apps for real business workflows, from database design an
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [christopher-hu-921ab421b](https://www.linkedin.com/in/christopher-huu/)
+- 💼 LinkedIn: [christopher-huu](https://www.linkedin.com/in/christopher-huu/)
 - 📧 Email: christopherhuu7@gmail.com
 - 🗣️ Languages: Bahasa Indonesia, English
 
