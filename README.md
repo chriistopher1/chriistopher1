@@ -59,9 +59,10 @@ I build web and mobile apps for real business workflows, from database design an
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [christopher-huu](https://www.linkedin.com/in/christopher-huu/)
-- 📧 Email: christopherhuu7@gmail.com
-- 🗣️ Languages: Bahasa Indonesia, English
+- LinkedIn: [christopher-huu](https://www.linkedin.com/in/christopher-huu/)
+- Email: christopherhuu7@gmail.com
+- Instagram : christopher.04_
+- Languages: Bahasa Indonesia, English
 
 I'm open to freelance full-stack work and software engineering opportunities.
 
